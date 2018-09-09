@@ -1,0 +1,7 @@
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\bin\Debug\Finite_Automaton.exe.config
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\bin\Debug\Finite_Automaton.exe
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\bin\Debug\Finite_Automaton.pdb
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\obj\Debug\Finite_Automaton.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\obj\Debug\Finite_Automaton.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\obj\Debug\Finite_Automaton.exe
+C:\Users\Morpheus\source\repos\Finite_Automaton\Finite_Automaton\obj\Debug\Finite_Automaton.pdb
