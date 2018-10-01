@@ -52,9 +52,10 @@ namespace Finite_Automaton
                     Console.Write(q + " ");
                 Console.WriteLine();*/
 
-                bool isAnswer = state.Intersect(_f).Count() == 0 ? false : true;
+                if (state.Count == 0) // Если множество текущих состояний пустое
+                    return result;
 
-                //Console.WriteLine(isAnswer);
+                bool isAnswer = state.Intersect(_f).Count() == 0 ? false : true;
 
                 if (isAnswer)
                     result = new Tuple<bool, int>(true, i - k + 1);
